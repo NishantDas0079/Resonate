@@ -1,0 +1,6 @@
+{
+  "name": "Resonate: AI Stress-Relief Mini-Games",
+  "description": "An AI-powered stress-relief and weekend-reset application with four custom, soothing mini-games recommended by a personal mood analysis AI agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
