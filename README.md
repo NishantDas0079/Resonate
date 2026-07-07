@@ -8,6 +8,11 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/a1de3151-d2bf-40ca-9afe-38bc7526eb9c
 
+## Demo
+
+[![Lovable Demo](https://img.shields.io/badge/Demo-Lovable-FF6B6B?style=for-the-badge)](YOUR_LOVABLE_DEMO_LINK)
+**Lovable Demo:** [Open the demo version](https://dasbaba-creations.lovable.app)
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
